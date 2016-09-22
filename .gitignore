@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin/Project
 *.class
@@ -20,3 +21,6 @@ hs_err_pid*
 >>>>>>> origin/master
 =======
 >>>>>>> origin/Project
+=======
+/bin/
+>>>>>>> origin/master
