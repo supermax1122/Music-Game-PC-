@@ -1,6 +1,7 @@
 package MusicGame;
 
 import java.sql.*;
+
 import com.microsoft.sqlserver.jdbc.*;
 
 public class ConnectSQL {
